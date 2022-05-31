@@ -6,7 +6,7 @@ Built a Super-Modular Digital KYC ​single page Application using React framewo
 
 ## Demo
 
-![Demo](https://github.com/kledjess/test_clonage)
+![Demo](https://user-images.githubusercontent.com/45638058/80860521-abdabe80-8c85-11ea-9452-2628fce6d5a2.gif)
 
 ## Background
 
@@ -15,7 +15,7 @@ KYC means “​ **Know Your Customer​** ”. It is a process by which financi
 ### Documents required to do the KYC:
 
 1. Basic customer details like name, DOB and gender
-2. kledjess photo
+2. cdk photo
 3. ID and Address Proofs like Aadhaar, Voter ID, Driving License, Passport and PAN.
 
 ## Specifications
