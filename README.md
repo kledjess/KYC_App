@@ -15,7 +15,7 @@ KYC means “​ **Know Your Customer​** ”. It is a process by which financi
 ### Documents required to do the KYC:
 
 1. Basic customer details like name, DOB and gender
-2. Latest photo
+2. kledjess photo
 3. ID and Address Proofs like Aadhaar, Voter ID, Driving License, Passport and PAN.
 
 ## Specifications
